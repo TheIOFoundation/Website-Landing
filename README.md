@@ -25,15 +25,13 @@ layout:
 
 {% tabs %}
 {% tab title="SPOTLIGHT" %}
-Upcoming activities
-
-<figure><img src=".gitbook/assets/APrIFG 2025 (1).png" alt="" width="375"><figcaption><p>IETF 124 | Montreal, Canada</p></figcaption></figure>
+<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center">TechUp Fellowship</td><td align="center">APRICOT 2026</td><td><a href=".gitbook/assets/[#TIOF] Comms [P] 0000-00-00 TIOF TU Fellowship APRICOT 2026 - X Post ENG v1.0.png">[#TIOF] Comms [P] 0000-00-00 TIOF TU Fellowship APRICOT 2026 - X Post ENG v1.0.png</a></td></tr><tr><td align="center">TechUp Felloship</td><td align="center">IETF 125</td><td><a href=".gitbook/assets/[#TIOF] Comms [P] 0000-00-00 TIOF TU Fellowship IETF 125 - LinkedIn Post ENG v1.0.png">[#TIOF] Comms [P] 0000-00-00 TIOF TU Fellowship IETF 125 - LinkedIn Post ENG v1.0.png</a></td></tr></tbody></table>
 {% endtab %}
 
-{% tab title="Activities" %}
+{% tab title="Events" %}
 Explore upcoming activities
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>STS 2026</strong></td><td>Kuala Lumpur, Malaysia</td><td>School of Technical Standards<br></td><td><em>More information soon.</em></td><td><a href=".gitbook/assets/Gitbook Card (1).png">Gitbook Card (1).png</a></td></tr><tr><td><strong>APRICOT 2026</strong></td><td>Jakarta, Indonesia</td><td>Asia Pacific's premier Internet operations conference.</td><td><em>More information soon.</em></td><td><a href=".gitbook/assets/Gitbook Card.png">Gitbook Card.png</a></td></tr><tr><td><strong>IETF 125</strong></td><td>Shenzhen, China</td><td>Global standards forum for Internet engineering and protocols.</td><td><em>More information soon.</em></td><td><a href=".gitbook/assets/Gitbook Header (1920 x 1080 px).png">Gitbook Header (1920 x 1080 px).png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>APRICOT 2026</strong></td><td>Jakarta, Indonesia</td><td>Asia Pacific's premier Internet operations conference.</td><td><em>More information soon.</em></td><td><a href=".gitbook/assets/[#TIOF] Comms [P] XXXX-XX-XX APRICOT 2026 - Gitbook Card XXX v1.0.png">[#TIOF] Comms [P] XXXX-XX-XX APRICOT 2026 - Gitbook Card XXX v1.0.png</a></td></tr><tr><td><strong>IETF 125</strong></td><td>Shenzhen, China</td><td>Global standards forum for Internet engineering and protocols.</td><td><em>More information soon.</em></td><td><a href=".gitbook/assets/[#TIOF] Comms [P] XXXX-XX-XX IETF 125 - Gitbook Card XXX v1.0.png">[#TIOF] Comms [P] XXXX-XX-XX IETF 125 - Gitbook Card XXX v1.0.png</a></td></tr><tr><td><strong>STS 2026</strong></td><td>Location to be confirmed</td><td>School of Technical Standards<br></td><td><em>More information soon.</em></td><td><a href=".gitbook/assets/Gitbook Card (1).png">Gitbook Card (1).png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Publications" %}
