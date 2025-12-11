@@ -97,7 +97,7 @@ function End_Remedy()
 function Rights_By_Design()
   /* Privacy and control must be built-in from the start.
      Your rights are the foundation, not an afterthought! */
-  return "Trust == Core"
+  return "Trust == Kernel"
 ```
 {% endcode %}
 {% endcolumn %}
