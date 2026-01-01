@@ -25,7 +25,7 @@ layout:
 
 {% tabs %}
 {% tab title="SPOTLIGHT" %}
-<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center">TechUp Fellowship</td><td align="center">APRICOT 2026</td><td><a href="https://app.gitbook.com/s/sRFrwDq11pmSbWoSLKjc/upcoming-seasons/season-2026/02-february/tiof-tu-fellowship-apricot-2026">[#TIOF] TU Fellowship APRICOT 2026</a></td><td><a href=".gitbook/assets/[#TIOF] Comms [P] 0000-00-00 TIOF TU Fellowship APRICOT 2026 - X Post ENG v1.0.png">[#TIOF] Comms [P] 0000-00-00 TIOF TU Fellowship APRICOT 2026 - X Post ENG v1.0.png</a></td></tr><tr><td align="center">TechUp Fellowship</td><td align="center">IETF 125</td><td><a href="https://app.gitbook.com/s/sRFrwDq11pmSbWoSLKjc/upcoming-seasons/season-2026/02-february/tiof-tu-fellowship-ietf-125">[#TIOF] TU Fellowship IETF 125</a></td><td><a href=".gitbook/assets/[#TIOF] Comms [P] 0000-00-00 TIOF TU Fellowship IETF 125 - LinkedIn Post ENG v1.0.png">[#TIOF] Comms [P] 0000-00-00 TIOF TU Fellowship IETF 125 - LinkedIn Post ENG v1.0.png</a></td></tr><tr><td align="center">Argos Community</td><td align="center">Argos clubs coming to Indonesia!</td><td></td><td data-object-fit="contain"><a href=".gitbook/assets/Community Icon-01.png">Community Icon-01.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center">TechUp Fellowship</td><td align="center">APRICOT 2026</td><td><a href="https://app.gitbook.com/s/sRFrwDq11pmSbWoSLKjc/current-season/season-2026/02-february/tiof-tu-fellowship-apricot-2026">[#TIOF] TU Fellowship APRICOT 2026</a></td><td><a href=".gitbook/assets/[#TIOF] Comms [P] 0000-00-00 TIOF TU Fellowship APRICOT 2026 - X Post ENG v1.0.png">[#TIOF] Comms [P] 0000-00-00 TIOF TU Fellowship APRICOT 2026 - X Post ENG v1.0.png</a></td></tr><tr><td align="center">TechUp Fellowship</td><td align="center">IETF 125</td><td><a href="https://app.gitbook.com/s/sRFrwDq11pmSbWoSLKjc/current-season/season-2026/02-february/tiof-tu-fellowship-ietf-125">[#TIOF] TU Fellowship IETF 125</a></td><td><a href=".gitbook/assets/[#TIOF] Comms [P] 0000-00-00 TIOF TU Fellowship IETF 125 - LinkedIn Post ENG v1.0.png">[#TIOF] Comms [P] 0000-00-00 TIOF TU Fellowship IETF 125 - LinkedIn Post ENG v1.0.png</a></td></tr><tr><td align="center">Argos Community</td><td align="center">Argos clubs coming to Indonesia!</td><td></td><td data-object-fit="contain"><a href=".gitbook/assets/Community Icon-01.png">Community Icon-01.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Events" %}
@@ -51,7 +51,7 @@ Actively engaged in Standard Developing Organizations, we raise awareness of the
 
 Our mission is driven by innovation and accountability, ensuring technology serves humanity’s progress.
 
-<a href="https://short.theiofoundation.org/TIOFDocsOrgBrief" class="button primary" data-icon="building-ngo">Discover The IO Foundation</a> &#x20;
+<a href="https://app.gitbook.com/s/hafOTOsiRh3rlQpv6fyD/about/organization-brief" class="button primary" data-icon="building-ngo">Discover The IO Foundation</a> &#x20;
 
 
 {% endcolumn %}
@@ -61,7 +61,7 @@ Our mission is driven by innovation and accountability, ensuring technology serv
 
 
 
-&#x20;<a href="https://short.theiofoundation.org/TIOFDocsSupportUs" class="button secondary" data-icon="hand-holding-seedling">Support Us</a>    <a href="https://short.theiofoundation.org/DocsJoinTIOF" class="button primary" data-icon="hand-spock">Get Involved</a>
+&#x20;<a href="https://app.gitbook.com/s/hafOTOsiRh3rlQpv6fyD/about/support-us" class="button secondary" data-icon="hand-holding-seedling">Support Us</a>    <a href="https://app.gitbook.com/s/gOsqm6NMTX2qUBFLW7wp/" class="button primary" data-icon="hand-spock">Get Involved</a>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -109,7 +109,7 @@ function Rights_By_Design()
 
 <p align="center"><strong>If you work in technology, you are an architect of civilization!</strong></p>
 
-<p align="center"><a href="/broken/pages/1NFs5mDAWD9RMXVtROkN" class="button primary">Coming soon: Join the Argos community!</a>    <a href="https://app.gitbook.com/s/rG4xcNzldvEoKR9FS7Og/about/the-sagan-oath" class="button secondary" data-icon="hand-sparkles">Plege the Sagan Oath!</a></p>
+<p align="center"><a href="https://app.gitbook.com/s/uld9T2tTIUQIOL2sa5b6/about/spotlight" class="button primary" data-icon="users-line">Join the TechUp community!</a>    <a href="https://app.gitbook.com/s/rG4xcNzldvEoKR9FS7Og/about/the-sagan-oath" class="button secondary" data-icon="hand-sparkles">Plege the Sagan Oath!</a></p>
 
 <p align="center"><br></p>
 
