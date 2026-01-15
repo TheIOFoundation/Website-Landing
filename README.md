@@ -37,7 +37,7 @@ Explore upcoming activities
 {% tab title="Publications" %}
 Latest publications
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>A PENNY FOR YOUR BYTES</strong></td><td>PART VII -<br>THE IMPENDING CS CRISIS</td><td><a href=".gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card APFYB-07 XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card APFYB-07 XXX v1.0.png</a></td><td><a href="https://app.gitbook.com/s/AEPxsorb0vygAAlwZz3R/topics/a-penny-for-your-bytes/part-vii-the-impending-cs-crisis">Part VII - The impending CS crisis</a></td></tr><tr><td><strong>THE IO FOUNDATION</strong></td><td>WHAT'S IN A NAME?<br></td><td><a href=".gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card What&#x27;s in Name ENG v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card What's in Name ENG v1.0.png</a></td><td><a href="https://app.gitbook.com/s/AEPxsorb0vygAAlwZz3R/topics/the-io-foundation/whats-in-a-name">What's in a name?</a></td></tr><tr><td><strong>DCDR</strong></td><td>LET'S TALK<br>DATA-CENTRIC DIGITAL RIGHTS<br></td><td><a href=".gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card Lets talk DCDR XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card Lets talk DCDR XXX v1.0.png</a></td><td><a href="https://app.gitbook.com/s/AEPxsorb0vygAAlwZz3R/topics/data-centric-digital-rights/lets-talk-data-centric-digital-rights">Let's talk Data-Centric Digital Rights</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>A PENNY FOR YOUR BYTES</strong></td><td>PART VII -<br>THE IMPENDING CS CRISIS</td><td><a href=".gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card APFYB-07 XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card APFYB-07 XXX v1.0.png</a></td><td><a href="https://app.gitbook.com/s/AEPxsorb0vygAAlwZz3R/articles/a-penny-for-your-bytes/part-vii-the-impending-cs-crisis">Part VII - The impending CS crisis</a></td></tr><tr><td><strong>THE IO FOUNDATION</strong></td><td>WHAT'S IN A NAME?<br></td><td><a href=".gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card What&#x27;s in Name ENG v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card What's in Name ENG v1.0.png</a></td><td><a href="https://app.gitbook.com/s/AEPxsorb0vygAAlwZz3R/articles/the-io-foundation/whats-in-a-name">What's in a name?</a></td></tr><tr><td><strong>DCDR</strong></td><td>LET'S TALK<br>DATA-CENTRIC DIGITAL RIGHTS<br></td><td><a href=".gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card Lets talk DCDR XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card Lets talk DCDR XXX v1.0.png</a></td><td><a href="https://app.gitbook.com/s/AEPxsorb0vygAAlwZz3R/articles/data-centric-digital-rights/lets-talk-data-centric-digital-rights">Let's talk Data-Centric Digital Rights</a></td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 
@@ -76,6 +76,14 @@ Data-Centric Digital Rights (DCDR), is the advocacy works towards protecting cit
 <a href="https://app.gitbook.com/s/rG4xcNzldvEoKR9FS7Og/about/readme" class="button primary" data-icon="book-open">Learn about DCDR</a>    <a href="https://app.gitbook.com/s/anvxjAzkrMrH39Mt5Hnn/about/get-involved" class="button secondary" data-icon="hand-spock">Get Involved</a>
 
 
+
+{% hint style="success" %}
+## NEWSLETTER
+
+Subscribe to our newsletter to be updated about open opportunities (internships, fellowships, volunteer calls), upcoming activities, advocacy campaigns and project updates.
+
+<p align="center"><a href="https://short.theiofoundation.org/TIOFRegistrationGeneralNewsletter" class="button primary" data-icon="newspaper">Register to the TIOF Newsletter </a></p>
+{% endhint %}
 {% endcolumn %}
 
 {% column width="50%" %}
@@ -102,8 +110,6 @@ function Rights_By_Design()
 {% endcode %}
 {% endcolumn %}
 {% endcolumns %}
-
-<h2 align="center"></h2>
 
 <h2 align="center">Technologist are the Next Generation of Rights Defenders</h2>
 
