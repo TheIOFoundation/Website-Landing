@@ -24,13 +24,15 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Landing
 
 {% tabs %}
 {% tab title="SPOTLIGHT" %}
-<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>TechUp Fellowship</strong></td><td align="center">ICANN87</td><td><a href="https://app.gitbook.com/s/sRFrwDq11pmSbWoSLKjc/current-season/season-2026/09-september/tiof-tu-fellowship-icann87">[#TIOF] TU Fellowship ICANN87</a></td><td><a href=".gitbook/assets/TIOF 2026 ICANN87 (Bali, Indonesia)- X.png">TIOF 2026 ICANN87 (Bali, Indonesia)- X.png</a></td></tr><tr><td align="center"><strong>TechUp Fellowship</strong></td><td align="center">IETF 127</td><td></td><td><a href=".gitbook/assets/photo_2026-09-12_20-51-43.jpg">photo_2026-09-12_20-51-43.jpg</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>TechUp Fellowship</strong></td><td align="center">ICANN87</td><td><a href="https://app.gitbook.com/s/sRFrwDq11pmSbWoSLKjc/current-season/season-2026/09-september/tiof-tu-fellowship-icann87">[#TIOF] TU Fellowship ICANN87</a></td><td><a href=".gitbook/assets/TIOF 2026 ICANN87 (Bali, Indonesia)- X.png">TIOF 2026 ICANN87 (Bali, Indonesia)- X.png</a></td></tr><tr><td align="center"><strong>TechUp Fellowship</strong></td><td align="center">IETF 127</td><td></td><td><a href=".gitbook/assets/TIOF 2026 IETF 127 (San Francisco)-X.png">TIOF 2026 IETF 127 (San Francisco)-X.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Events" %}
